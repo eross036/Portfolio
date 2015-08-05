@@ -1,2 +1,6 @@
 html { font-family: 'Quicksand', sans-serif;
 }
+strong {
+   font-size: 30px;
+   font-style: thin;
+}
